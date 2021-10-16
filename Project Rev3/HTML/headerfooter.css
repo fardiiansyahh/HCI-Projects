@@ -1,0 +1,30 @@
+body {
+
+    margin: 0px;
+    font-size: 20px;
+}
+
+header {
+
+    background-color: black;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-top{
+    margin-bottom: 5px;
+}
+
+.footer-bot{
+    margin-top: 5px;
+}
+
+.Logo img {
+    width: 15%;
+}
